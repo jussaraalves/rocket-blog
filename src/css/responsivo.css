@@ -1,0 +1,153 @@
+ @media (max-width: 1630px){
+   
+    header h1{
+        font-size: 34px;
+    }
+
+    header p{
+        font-size: 16px;
+    }
+
+    .grupo-texto{
+        margin-right: 100px;
+    }
+
+    .grupo-texto h1,p,span{
+        padding-left: 100px;
+    }
+
+    .imagem-do-header{
+        width: 650px;
+    }
+
+    main{
+        padding-left: 167px;
+    }
+
+    .card{
+        margin-right: 110px;
+    }
+
+    .cardBottom{
+        padding-left: 167px;
+    }
+
+    .cardBottom > .midiaCard{
+        margin-right: 50px;
+      }  
+    
+}
+
+@media (max-width:1436px) {
+    .grupo-texto h1,p,span{
+        padding-left: 60px;
+    }  
+}
+
+@media (max-width: 1430px) {
+    .container{  
+        justify-content: left;   
+        
+    }
+
+    .container .logo,  nav{
+        margin-right: 80px;
+    }
+
+    .busca{
+        width: 270px;  
+    }
+    
+    .grupo-texto h1,p,span{
+        padding-left: 5px;
+    }
+    
+    main, .cardBottom{
+        padding-left: 100px;
+    }
+
+    .cardBottom > .midiaCard{
+        margin-right: 40px;
+    }
+
+    .imagem-cardBottom{
+        width: 350px;
+    }
+}
+
+@media (max-width:1300px) { 
+
+    header h1{
+        font-size: 30px;
+    }
+
+    .home{
+        padding-left: 80px;
+    }
+
+    .container .logo,  nav{
+        margin-right: 60px;
+    }
+
+    .busca{
+      width: 250px;  
+    }
+
+    .imagem-do-header{
+        width: 600px;
+    }
+
+    .imagem-do-main {
+        width: 495px;
+    }
+
+    main .textoCard{
+        width: 495px;
+    }
+
+    .card{
+        width: 500px;
+    }
+
+    .content{
+        width: 570px;
+    
+    }
+    
+    .imagem-cardBottom{
+        width: 300px;
+        
+    }
+
+    .cardBottom .midiaCard {
+        margin-right: 35px;
+        background-color: aquamarine;
+    }
+
+    .midiaCard{
+        width: 300px;
+    }
+
+    .textoCard{
+        background-color: aqua;
+        width: 300px;
+    } 
+} 
+
+@media (max-width:1200px) {
+    .container .logo,  nav{
+        margin-right: 50px;
+    }
+
+    .container .logo,  nav{  
+        margin-right: 50px;
+        
+    }
+
+    header h1{
+        font-size: 28px;
+    }
+
+    
+
+} 

@@ -1,0 +1,89 @@
+@charset "UTF-8";
+
+body{
+    font-family: 'Poppins', sans-serif;
+    height: 100vh;
+}
+
+main{
+    display: flex;
+    background-color: #FBF6FF;
+    height: 670.88px;
+    width: 100%;
+    padding-top: 60px;
+    padding-left: 267px;
+    
+}
+
+
+.side-post{  
+    color: #000000;
+    padding-right: 208px;
+    width: 721px;
+    
+}
+
+hr{
+    border: unset;
+    background-color: #F2E7FA;
+    height: 2px;
+    margin-top: 23.59px;
+    margin-bottom: 23.59px;
+}
+
+.side-post p, .side-post span{
+    padding: unset;
+    color: #000000;
+    font-size: 16px;
+    line-height: 24px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.title {
+    color: #290742;
+    font-family: Poppins; 
+    font-weight: Bold;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 36px;
+    cursor: pointer;
+}
+
+.card{
+    margin-right: 136px;
+    width: 569px;
+    height: 546px;
+    
+}
+
+.textoCard span, .textoCard p{
+    padding: unset;
+    color:#000000;
+    padding-top: 15.97px;
+    padding-bottom: 15.97px;
+        
+}
+
+
+.cardBottom{
+    display: flex;
+    height: 560.12px;
+    width: 100%;
+    padding-left: 265px;
+    background-color: #FBF6FF;
+    
+}
+
+.midiaCard{
+    margin-right: 100px;
+    width: 370px;
+    
+    
+    
+}
+
+
+
+
+
